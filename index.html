@@ -88,7 +88,7 @@
         v-if="tutorial === 'left'" v-on:swipeleft="tutorial = 'right'" v-on:swiperight="tutorial = 'right'"></swype-card>
       <swype-card name="Swipe right to ignore product" v-bind:key="'right'"
         v-if="tutorial === 'right'" v-on:swipeleft="tutorial = 'fin'" v-on:swiperight="tutorial = 'fin'"></swype-card>
-      <swype-card name="Press 'Finish swiping' to export your list" v-bind:name="added.length" v-bind:key="'fin'"
+      <swype-card name="Press 'Finish swiping' to export your list" v-bind:key="'fin'"
         v-if="tutorial === 'fin'" v-on:swipeleft="doneTutorial" v-on:swiperight="doneTutorial"></swype-card>
       <swype-card v-for="item in dbItems" v-bind:name="item.name" v-bind:key="item.name"
         v-if="current.name === item.name && tutorial === 'no'" v-on:swipeleft="swipeLeft" v-on:swiperight="swipeRight"></swype-card>
