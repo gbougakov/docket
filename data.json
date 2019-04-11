@@ -1,0 +1,508 @@
+[{
+  "name": "whole milk",
+  "count": 2513
+}, {
+  "name": "other vegetables",
+  "count": 1903
+}, {
+  "name": "rolls/buns",
+  "count": 1809
+}, {
+  "name": "soda",
+  "count": 1715
+}, {
+  "name": "yogurt",
+  "count": 1372
+}, {
+  "name": "bottled water",
+  "count": 1087
+}, {
+  "name": "root vegetables",
+  "count": 1072
+}, {
+  "name": "tropical fruit",
+  "count": 1032
+}, {
+  "name": "shopping bags",
+  "count": 969
+}, {
+  "name": "sausage",
+  "count": 924
+}, {
+  "name": "pastry",
+  "count": 875
+}, {
+  "name": "citrus fruit",
+  "count": 814
+}, {
+  "name": "bottled beer",
+  "count": 792
+}, {
+  "name": "newspapers",
+  "count": 785
+}, {
+  "name": "canned beer",
+  "count": 764
+}, {
+  "name": "pip fruit",
+  "count": 744
+}, {
+  "name": "fruit/vegetable juice",
+  "count": 711
+}, {
+  "name": "whipped/sour cream",
+  "count": 705
+}, {
+  "name": "brown bread",
+  "count": 638
+}, {
+  "name": "domestic eggs",
+  "count": 624
+}, {
+  "name": "frankfurter",
+  "count": 580
+}, {
+  "name": "margarine",
+  "count": 576
+}, {
+  "name": "coffee",
+  "count": 571
+}, {
+  "name": "pork",
+  "count": 567
+}, {
+  "name": "butter",
+  "count": 545
+}, {
+  "name": "curd",
+  "count": 524
+}, {
+  "name": "beef",
+  "count": 516
+}, {
+  "name": "napkins",
+  "count": 515
+}, {
+  "name": "chocolate",
+  "count": 488
+}, {
+  "name": "frozen vegetables",
+  "count": 473
+}, {
+  "name": "chicken",
+  "count": 422
+}, {
+  "name": "white bread",
+  "count": 414
+}, {
+  "name": "cream cheese ",
+  "count": 390
+}, {
+  "name": "waffles",
+  "count": 378
+}, {
+  "name": "salty snack",
+  "count": 372
+}, {
+  "name": "long life bakery product",
+  "count": 368
+}, {
+  "name": "dessert",
+  "count": 365
+}, {
+  "name": "sugar",
+  "count": 333
+}, {
+  "name": "UHT-milk",
+  "count": 329
+}, {
+  "name": "hamburger meat",
+  "count": 327
+}, {
+  "name": "berries",
+  "count": 327
+}, {
+  "name": "hygiene articles",
+  "count": 324
+}, {
+  "name": "onions",
+  "count": 305
+}, {
+  "name": "specialty chocolate",
+  "count": 299
+}, {
+  "name": "candy",
+  "count": 294
+}, {
+  "name": "misc. beverages",
+  "count": 279
+}, {
+  "name": "frozen meals",
+  "count": 279
+}, {
+  "name": "oil",
+  "count": 276
+}, {
+  "name": "butter milk",
+  "count": 275
+}, {
+  "name": "specialty bar",
+  "count": 269
+}, {
+  "name": "beverages",
+  "count": 256
+}, {
+  "name": "ham",
+  "count": 256
+}, {
+  "name": "meat",
+  "count": 254
+}, {
+  "name": "ice cream",
+  "count": 246
+}, {
+  "name": "hard cheese",
+  "count": 241
+}, {
+  "name": "sliced cheese",
+  "count": 241
+}, {
+  "name": "cat food",
+  "count": 229
+}, {
+  "name": "grapes",
+  "count": 220
+}, {
+  "name": "chewing gum",
+  "count": 207
+}, {
+  "name": "detergent",
+  "count": 189
+}, {
+  "name": "red/blush wine",
+  "count": 189
+}, {
+  "name": "white wine",
+  "count": 187
+}, {
+  "name": "pickled vegetables",
+  "count": 176
+}, {
+  "name": "semi-finished bread",
+  "count": 174
+}, {
+  "name": "baking powder",
+  "count": 174
+}, {
+  "name": "dishes",
+  "count": 173
+}, {
+  "name": "flour",
+  "count": 171
+}, {
+  "name": "pot plants",
+  "count": 170
+}, {
+  "name": "soft cheese",
+  "count": 168
+}, {
+  "name": "processed cheese",
+  "count": 163
+}, {
+  "name": "herbs",
+  "count": 160
+}, {
+  "name": "canned fish",
+  "count": 148
+}, {
+  "name": "pasta",
+  "count": 148
+}, {
+  "name": "seasonal products",
+  "count": 140
+}, {
+  "name": "cake bar",
+  "count": 130
+}, {
+  "name": "packaged fruit/vegetables",
+  "count": 128
+}, {
+  "name": "mustard",
+  "count": 118
+}, {
+  "name": "frozen fish",
+  "count": 115
+}, {
+  "name": "cling film/bags",
+  "count": 112
+}, {
+  "name": "spread cheese",
+  "count": 110
+}, {
+  "name": "liquor",
+  "count": 109
+}, {
+  "name": "frozen dessert",
+  "count": 106
+}, {
+  "name": "salt",
+  "count": 106
+}, {
+  "name": "canned vegetables",
+  "count": 106
+}, {
+  "name": "dish cleaner",
+  "count": 103
+}, {
+  "name": "flower (seeds)",
+  "count": 102
+}, {
+  "name": "condensed milk",
+  "count": 101
+}, {
+  "name": "roll products ",
+  "count": 101
+}, {
+  "name": "pet care",
+  "count": 93
+}, {
+  "name": "photo/film",
+  "count": 91
+}, {
+  "name": "mayonnaise",
+  "count": 90
+}, {
+  "name": "sweet spreads",
+  "count": 89
+}, {
+  "name": "chocolate marshmallow",
+  "count": 89
+}, {
+  "name": "candles",
+  "count": 88
+}, {
+  "name": "specialty cheese",
+  "count": 84
+}, {
+  "name": "dog food",
+  "count": 84
+}, {
+  "name": "frozen potato products",
+  "count": 83
+}, {
+  "name": "house keeping products",
+  "count": 82
+}, {
+  "name": "turkey",
+  "count": 80
+}, {
+  "name": "Instant food products",
+  "count": 79
+}, {
+  "name": "liquor (appetizer)",
+  "count": 78
+}, {
+  "name": "rice",
+  "count": 75
+}, {
+  "name": "instant coffee",
+  "count": 73
+}, {
+  "name": "popcorn",
+  "count": 71
+}, {
+  "name": "zwieback",
+  "count": 68
+}, {
+  "name": "soups",
+  "count": 67
+}, {
+  "name": "finished products",
+  "count": 64
+}, {
+  "name": "vinegar",
+  "count": 64
+}, {
+  "name": "female sanitary products",
+  "count": 60
+}, {
+  "name": "kitchen towels",
+  "count": 59
+}, {
+  "name": "dental care",
+  "count": 57
+}, {
+  "name": "cereals",
+  "count": 56
+}, {
+  "name": "sparkling wine",
+  "count": 55
+}, {
+  "name": "softener",
+  "count": 54
+}, {
+  "name": "sauces",
+  "count": 54
+}, {
+  "name": "jam",
+  "count": 53
+}, {
+  "name": "spices",
+  "count": 51
+}, {
+  "name": "curd cheese",
+  "count": 50
+}, {
+  "name": "cleaner",
+  "count": 50
+}, {
+  "name": "liver loaf",
+  "count": 50
+}, {
+  "name": "male cosmetics",
+  "count": 45
+}, {
+  "name": "rum",
+  "count": 44
+}, {
+  "name": "meat spreads",
+  "count": 42
+}, {
+  "name": "ketchup",
+  "count": 42
+}, {
+  "name": "brandy",
+  "count": 41
+}, {
+  "name": "light bulbs",
+  "count": 41
+}, {
+  "name": "tea",
+  "count": 38
+}, {
+  "name": "specialty fat",
+  "count": 36
+}, {
+  "name": "abrasive cleaner",
+  "count": 35
+}, {
+  "name": "skin care",
+  "count": 35
+}, {
+  "name": "nuts/prunes",
+  "count": 33
+}, {
+  "name": "artif. sweetener",
+  "count": 32
+}, {
+  "name": "canned fruit",
+  "count": 32
+}, {
+  "name": "syrup",
+  "count": 32
+}, {
+  "name": "nut snack",
+  "count": 31
+}, {
+  "name": "snack products",
+  "count": 30
+}, {
+  "name": "fish",
+  "count": 29
+}, {
+  "name": "potato products",
+  "count": 28
+}, {
+  "name": "bathroom cleaner",
+  "count": 27
+}, {
+  "name": "cookware",
+  "count": 27
+}, {
+  "name": "soap",
+  "count": 26
+}, {
+  "name": "cooking chocolate",
+  "count": 25
+}, {
+  "name": "pudding powder",
+  "count": 23
+}, {
+  "name": "tidbits",
+  "count": 23
+}, {
+  "name": "cocoa drinks",
+  "count": 22
+}, {
+  "name": "organic sausage",
+  "count": 22
+}, {
+  "name": "prosecco",
+  "count": 20
+}, {
+  "name": "flower soil/fertilizer",
+  "count": 19
+}, {
+  "name": "ready soups",
+  "count": 18
+}, {
+  "name": "specialty vegetables",
+  "count": 17
+}, {
+  "name": "organic products",
+  "count": 16
+}, {
+  "name": "honey",
+  "count": 15
+}, {
+  "name": "decalcifier",
+  "count": 15
+}, {
+  "name": "cream",
+  "count": 13
+}, {
+  "name": "frozen fruits",
+  "count": 12
+}, {
+  "name": "hair spray",
+  "count": 11
+}, {
+  "name": "rubbing alcohol",
+  "count": 10
+}, {
+  "name": "liqueur",
+  "count": 9
+}, {
+  "name": "make up remover",
+  "count": 8
+}, {
+  "name": "salad dressing",
+  "count": 8
+}, {
+  "name": "whisky",
+  "count": 8
+}, {
+  "name": "toilet cleaner",
+  "count": 7
+}, {
+  "name": "baby cosmetics",
+  "count": 6
+}, {
+  "name": "frozen chicken",
+  "count": 6
+}, {
+  "name": "bags",
+  "count": 4
+}, {
+  "name": "kitchen utensil",
+  "count": 4
+}, {
+  "name": "preservation products",
+  "count": 2
+}, {
+  "name": "baby food",
+  "count": 1
+}, {
+  "name": "sound storage medium",
+  "count": 1
+}]
