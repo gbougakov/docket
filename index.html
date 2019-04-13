@@ -84,9 +84,9 @@
     </div>
     <transition-group name="fade" class="uk-width-1-1 uk-padding-large uk-flex uk-flex-center uk-flex-middle pin"
       tag="div" mode="out-in" v-if="currentScreen === 'swiping'">
-      <swype-card name="Swipe left to add product to grocery list" v-bind:key="'left'"
+      <swype-card name="Swipe right to add product to grocery list" v-bind:key="'left'"
         v-if="tutorial === 'left'" v-on:swipeleft="tutorial = 'right'" v-on:swiperight="tutorial = 'right'"></swype-card>
-      <swype-card name="Swipe right to ignore product" v-bind:key="'right'"
+      <swype-card name="Swipe left to ignore product" v-bind:key="'right'"
         v-if="tutorial === 'right'" v-on:swipeleft="tutorial = 'fin'" v-on:swiperight="tutorial = 'fin'"></swype-card>
       <swype-card name="Press 'Finish swiping' to export your list" v-bind:key="'fin'"
         v-if="tutorial === 'fin'" v-on:swipeleft="doneTutorial" v-on:swiperight="doneTutorial"></swype-card>
@@ -187,22 +187,22 @@
         current: {},
         added: [],
         currentScreen: 'swiping',
-        tutorial: (localStorage.getItem('tutorialdone') === 'yes') ? 'no' : 'left'
+        tutorial: (localStorage.getItem('tutorialdone') === 'yess') ? 'no' : 'left'
       },
       methods: {
-        swipeLeft() {
+        swipeRight() {
           this.added.push(this.current.name)
           this.currentId += 1
           this.current = this.dbItems[this.currentId]
           
         },
-        swipeRight() {
+        swipeLeft() {
           this.currentId += 1
           this.current = this.dbItems[this.currentId]
         },
         doneTutorial() {
           this.tutorial = 'no'
-          localStorage.setItem('tutorialdone', 'yes')
+          localStorage.setItem('tutorialdone', 'yess')
         },
         thingsExport() {
           window.open(`things:///add?checklist-items=${this.added.join('%0A')}&show-quick-entry=true`)
